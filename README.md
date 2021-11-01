@@ -7,7 +7,6 @@
 
 ## 外部アプリ
 [Qiita](https://qiita.com/kitaken55)
-[Twitter](https://twitter.com/kitaken55)
 <!--
 **kitaken55/kitaken55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
